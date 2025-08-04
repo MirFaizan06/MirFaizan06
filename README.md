@@ -28,7 +28,7 @@ I’m a web development student currently learning JavaScript and React. I’m p
 
 📫 Connect with Me
 
-- [Instagram] https://www.youtube.com/@is_anxt
+- [Instagram] https://www.instagram.com/@is_anxt
 - [Discord] discord.gg/QMq8TJV4
 
 🔄 Quick Stats
