@@ -11,7 +11,15 @@ I’m a web development student currently learning JavaScript and React. I’m p
 
 💻 Projects
 
-- nothing done yet. soon posting a text manipulator.
+- Text Manipulator (Simple)
+- BCA Hub (Attendance via GPS + QR)
+- GDC Bemina Main Website Redesigned (In progress)
+- PEMA Foundation Portfolio Website (Completed but not deployed yet)
+- Self Portfolio
+- Desk of Saar (Website for showcasing books with download options)
+- Flask based ML project (Cedit Card Fraud Detector using Logistic Regression)
+- Various Conceptual projects in progress
+(Note these projects weren't 100% Human-made but included controlled and heavily tested AI-assisted development for huge codebases)
 
 📈 Skills
 
