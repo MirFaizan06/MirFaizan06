@@ -1,6 +1,6 @@
 Hi there, I’m Faizan 👋
 
-I’m a web development student currently learning JavaScript and React. I’m passionate about building interactive web applications and improving my skills with hands-on projects. Here, you’ll find my journey as I work on various projects and dive deeper into modern web technologies.
+I’m a Full Stack development student currently learning JavaScript and React. I’m passionate about building interactive web applications and improving my skills with hands-on projects. Here, you’ll find my journey as I work on various projects and dive deeper into modern web technologies.
 
 🌱 What I’m Learning
 - JavaScript: Strengthening my understanding of fundamentals and exploring advanced concepts.
