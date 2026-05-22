@@ -1,24 +1,22 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=C9D1D9&background=00000000&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Faizan+Mir+%F0%9F%91%8B;Data+Analyst+%E2%86%92+AI+Scientist+in+progress;Building+with+Python+%2B+Claude+Code;Shipping+real+projects+since+day+one." alt="Typing SVG" />
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=MirFaizan06&color=6e40c9&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/MirFaizan06)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-hussain-mir-830b69344)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TheNxTLvL)
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=C9D1D9&background=00000000&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Faizan+Mir;Data+Analyst+%E2%86%92+AI+Scientist+in+progress;Building+with+Python+%2B+Claude+Code;Shipping+real+projects+since+day+one." alt="Typing SVG" />
+  
+  <br/>
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=MirFaizan06&color=6e40c9&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/MirFaizan06)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-hussain-mir-830b69344)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TheNxTLvL)
 </div>
 
 ---
 
-## ⚡ Who I Am
+## Who I Am
 
 ```python
-faizan = {
+me = {
     "name"       : "Faizan Hussain Mir",
-    "location"   : "Kashmir, India 🏔️",
-    "role"       : "BCA Student → Data Analyst → AI Scientist",
+    "location"   : "Kashmir, India",
+    "role"       : "BCA Student -> Data Analyst -> AI Scientist",
     "studio"     : "Founding Partner @ Hachi wa Studios",
     "philosophy" : "Delivery over syntax. Build real things.",
     "stack"      : ["Python", "Pandas", "SQL", "Scikit-Learn", "Streamlit"],
@@ -27,56 +25,60 @@ faizan = {
 }
 ```
 
-> I don't believe 'coding from scratch' is the metric anymore.
-> The new skill is knowing **what to build**, **why it matters**, and **shipping it fast**.
+> I don't believe 'coding from scratch' is the metric anymore.  
+> The new skill is knowing **what to build**, **why it matters**, and **shipping it fast**.  
 > I use Claude Code as a co-pilot. Every project here is tested, understood, and deployed by me.
 
 ---
 
-## 🧠 Core Stack
+## Core Stack
 
 <div align="center">
 
-### Data & ML
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
-[![Jupyter](https://skillicons.dev/icons?i=jupyter)](https://jupyter.org)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4c8cbf?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Web & Tools
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
-[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-
-### AI Tooling
-![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_API-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="33%"><b>Data & ML</b></td>
+    <td align="center" width="33%"><b>Web & Tools</b></td>
+    <td align="center" width="33%"><b>AI Tooling</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,jupyter" /><br/><br/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Seaborn-4c8cbf?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js,react,flask,git,vscode" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Anthropic_API-000000?style=flat-square&logo=anthropic&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 | # | Project | Stack | What It Does | Live |
-|---|---------|-------|-------------|------|
-| 🔴 | [**Credit Card Fraud Detector**](https://github.com/MirFaizan06/Credit-Card-Fraud-Detector) | Python · Flask · Scikit-Learn | ML model that classifies transaction risk across 28 PCA features. Flask web interface. | — |
-| 📚 | [**Desk of Saar**](https://github.com/MirFaizan06/desk-of-saar) | React · Three.js · Firebase | eBook platform with 3D visuals and Firebase backend | [Live ↗](https://github.com/MirFaizan06/desk-of-saar) |
-| 🎓 | [**BCA Hub**](https://github.com/MirFaizan06/bca-hub) | React · JS | Attendance tracking via GPS + QR for college | — |
+|---|---------|-------|--------------|------|
+| 1 | [**Credit Card Fraud Detector**](https://github.com/MirFaizan06/Credit-Card-Fraud-Detector) | Python, Flask, Scikit-Learn | ML model that classifies transaction risk across 28 PCA features. Flask web interface. | — |
+| 2 | [**Desk of Saar**](https://github.com/MirFaizan06/desk-of-saar) | React, Three.js, Firebase | eBook platform with 3D visuals and Firebase backend | [Code](https://github.com/MirFaizan06/desk-of-saar) |
+| 3 | [**BCA Hub**](https://github.com/MirFaizan06/bca-hub) | React, JavaScript | Attendance tracking via GPS + QR for college | — |
 
-> 🔨 **4 data science projects in progress** — EDA · SQL Analytics · ML Dashboard · Predictive App. Updated monthly.
+> **4 data science projects in progress** — EDA, SQL Analytics, ML Dashboard, Predictive App. Updated monthly.
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -91,28 +93,26 @@ faizan = {
 
 ---
 
-## 🗺️ 2026 Roadmap
+## 2026 Roadmap
 
 ```
 Q2 2026 — Data Science Portfolio Sprint (1 Month)
-──────────────────────────────────────────────────
- ✅  Week 1 →  EDA on a real Indian dataset (storytelling-first)
- ✅  Week 2 →  SQL analytics project (10+ business queries)
- ✅  Week 3 →  ML model + Streamlit live dashboard
- ✅  Week 4 →  End-to-end predictive web app (deployed)
+- [x] Week 1: EDA on a real Indian dataset (storytelling-first)
+- [x] Week 2: SQL analytics project (10+ business queries)
+- [x] Week 3: ML model + Streamlit live dashboard
+- [x] Week 4: End-to-end predictive web app (deployed)
 
 Q3 2026
-──────────────────────────────────────────────────
- 🔲  Kaggle competitions (top 30%)
- 🔲  Time series + NLP projects
- 🔲  First data analyst internship/freelance
+- [ ] Kaggle competitions (top 30%)
+- [ ] Time series + NLP projects
+- [ ] First data analyst internship/freelance
 
-Q4 2026 →  AI Scientist track begins
+Q4 2026: AI Scientist track begins
 ```
 
 ---
 
-## 🤝 On AI-Assisted Development
+## On AI-Assisted Development
 
 I use Claude Code actively for every project — not as a shortcut, but as a **force multiplier**.
 
@@ -122,7 +122,7 @@ Every project in this profile has been **directed, tested, and understood by me*
 
 ---
 
-## 📬 Connect
+## Connect
 
 <div align="center">
 
@@ -132,7 +132,7 @@ Every project in this profile has been **directed, tested, and understood by me*
 
 <br/>
 
-*Based in Kashmir, India 🏔️ · Open to remote data analyst roles & collaborations*
+*Based in Kashmir, India · Open to remote data analyst roles & collaborations*
 
 </div>
 
